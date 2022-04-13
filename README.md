@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div> 
   <h3> Social networks</h3>
   <a href="Pegar link do linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
