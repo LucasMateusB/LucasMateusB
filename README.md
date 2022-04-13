@@ -1,3 +1,7 @@
+<div>
+<img align="right" alt="Eve-anime" height="400" style="border-radius:50px;" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F78.media.tumblr.com%2F54a15216a9d68a77347dc3c2e414e678%2Ftumblr_muul8sAMIe1sladr5o1_500.gif&f=1&nofb=1">
+</div>
+
 <div> 
   <h3> Social networks</h3>
   <a href="Pegar link do linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
