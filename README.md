@@ -21,7 +21,7 @@
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Lucas-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpa1.narvii.com%2F6523%2F542ab950a55e11aa9132f6c74be43d0aad8b8b95_hq.gif&f=1&nofb=1">
+  <img align="right" alt="Dean" height="150" style="border-radius:50px;" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpa1.narvii.com%2F6523%2F542ab950a55e11aa9132f6c74be43d0aad8b8b95_hq.gif&f=1&nofb=1">
 </div>
   
 ##
@@ -34,5 +34,8 @@
   
 ##
 
-
-![Snake animation](https://github.com/LucasMateusB/LucasMateusB/blob/output/github-contribution-grid-snake.svg)
+<div>
+  
+  ![Snake animation](https://github.com/LucasMateusB/LucasMateusB/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
