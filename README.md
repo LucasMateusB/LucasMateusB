@@ -8,3 +8,10 @@
   <a href = "mailto:lucas.mateus.dbarros@gmail.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" target="_blank"></a>
   <a href="https://instagram.com/lucas_mb16" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
+##
+
+
+<div>
+ ![Snake animation](https://github.com/LucasMdB/LucasMdB/blob/output/github-contribution-grid-snake.svg)
+</div>
